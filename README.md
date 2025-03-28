@@ -21,12 +21,6 @@ No notebook incluído neste repositório, realizamos:
 
 - `analise-de-dados-2.ipynb`: Notebook com o desenvolvimento do projeto.
 
-## 🧑‍💻 Como utilizar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/EduLovatelW/analise-de-dados-python-2.git
-
 Este projeto foi realizado como atividade avaliativa para a disciplina de Análise de Dados com Python.
  
 OBS: Este trabalho foi feito com meu colega de classe Eduardo Menin
